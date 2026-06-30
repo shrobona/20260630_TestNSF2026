@@ -3,7 +3,7 @@ title: "Using Markdown"
 teaching: 10 # teaching time in minutes
 exercises: 2 # exercise time in minutes
 
-SKS EXAMPLE CHANGE 
+END SEMESTER PROJECT: 1 # EDIT SKS 123
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
